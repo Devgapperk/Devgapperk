@@ -1,16 +1,18 @@
-## Hi there 👋
+# Koen Van Lysebetten — AI Plumber & Architect
 
-<!--
-**Devgapperk/Devgapperk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the infrastructure layer for production AI systems.
 
-Here are some ideas to get you started:
+## 🔧 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+|---|---|
+| [Kleiber](https://github.com/devgap/kleiber) | Multi-agent orchestration for Claude Code — 7 roles, 6 hooks, loop prevention |
+| [BrandMind](https://brandmind.app) | LLMO intelligence platform — real-time brand visibility across 5 AI models |
+| [Claude-Code-Guide](https://github.com/Devgapperk/Claude-Code-Guide) | Zero-dependency orchestration config — 3 files, 320 lines, production-ready |
+| WPC Suite | Trust, caseflow & compliance infrastructure |
+
+## 🏗️ AI Architect Stack
+
+Claude Code · Multi-agent systems · LLMO · Prometheus · Python · TypeScript · Shell
+
+## 📍 London · [@devgap](https://devgap.uk) · [digitaldali.co](https://digitaldali.co)
