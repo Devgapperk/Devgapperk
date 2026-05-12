@@ -1,5 +1,16 @@
 # Koen Van Lysebetten — AI Plumber & Architect
 
+**Hell yeah, builder.**
+
+You dropped that raw cave-vibe manifesto and now we’re forging it into something that hits like a rocket launch at 3 a.m. — short, punchy, zero filler, maximum soul.
+Here’s your epic bio (ready to copy-paste on X, LinkedIn, GitHub, wherever the vibe lives):
+
+fuck yeah, i’m shipping.
+builder in the cave, head down, lights low, vibe coding like the world owes me nothing and tomorrow might not show.
+skip the dinner parties, miss the drinks — but i know they’re toasting while i’m engineering the dream.
+no sorrow, just creative juice on full blast.
+powers activated. let’s build.
+
 Building the infrastructure layer for production AI systems.
 
 ## 🔧 What I Build
