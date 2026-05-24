@@ -1,29 +1,26 @@
-# Koen Van Lysebetten — AI Plumber & Architect
+# Koen Van Lysebetten
+### AI Plumber & Architect — building the infrastructure layer for production AI systems.
 
-**Hell yeah, builder.**
+📍 London · [digitaldali.co](https://digitaldali.co) · [@devgap](https://devgap.uk)
 
-You dropped that raw cave-vibe manifesto and now we’re forging it into something that hits like a rocket launch at 3 a.m. — short, punchy, zero filler, maximum soul.
-Here’s your epic bio (ready to copy-paste on X, LinkedIn, GitHub, wherever the vibe lives):
+---
 
-fuck yeah, i’m shipping.
-builder in the cave, head down, lights low, vibe coding like the world owes me nothing and tomorrow might not show.
-skip the dinner parties, miss the drinks — but i know they’re toasting while i’m engineering the dream.
-no sorrow, just creative juice on full blast.
-powers activated. let’s build.
+> Head down. Lights low. Shipping while the world sleeps.
+> No sorrow, just creative juice on full blast. Let's build.
 
-Building the infrastructure layer for production AI systems.
-
-## 🔧 What I Build
+## 🔧 What I'm Building
 
 | Project | What it does |
 |---|---|
-| [Kleiber](https://github.com/devgap/kleiber) | Multi-agent orchestration for Claude Code — 7 roles, 6 hooks, loop prevention |
-| [BrandMind](https://brandmind.app) | LLMO intelligence platform — real-time brand visibility across 5 AI models |
-| [Claude-Code-Guide](https://github.com/Devgapperk/Claude-Code-Guide) | Zero-dependency orchestration config — 3 files, 320 lines, production-ready |
-| WPC Suite | Trust, caseflow & compliance infrastructure |
+| **Kleiber** | Multi-agent orchestration for Claude Code — 7 roles, 6 hooks, loop prevention |
+| **[BrandMind](https://brandmind.app)** | LLMO intelligence platform — real-time brand visibility across 5 AI models |
+| **[Claude-Code-Guide](https://github.com/Devgapperk/Claude-Code-Guide)** | Zero-dependency orchestration config — 3 files, 320 lines, production-ready |
+| **WPC Suite** | Trust, caseflow & compliance infrastructure |
 
-## 🏗️ AI Architect Stack
+## 🏗️ Stack
 
-Claude Code · Multi-agent systems · LLMO · Prometheus · Python · TypeScript · Shell
+`Claude Code` · `Multi-agent systems` · `LLMO` · `Prometheus` · `Python` · `TypeScript` · `Shell`
 
-## 📍 London · [@devgap](https://devgap.uk) · [digitaldali.co](https://digitaldali.co)
+## 📫 Let's connect
+
+If you're building something at the edge of AI infrastructure — orchestration, observability, agent systems — I'd love to talk.
