@@ -98,7 +98,7 @@ Every action logged and traceable. Uncertain calls go to a human. The whole syst
 
 ## ` % ` Recent engagements
 
-**Lead Data & AI Strategy** · Accenture Song for De Lijn · *2025*  
+**Lead Data & AI Strategy** · Accenture Song for largest Belgium Transport company · *2025*  
 Enterprise AI roadmap, four ExCom-approved use cases, compliance-by-design from day one.
 
 **Fractional Head of Growth** · SD Worx (€1B+ payroll platform) & Reica · *2025–present*  
@@ -107,7 +107,7 @@ Platform migration, partner ecosystem connecting 75K customers and 5M+ employees
 **Chief AI Officer (Fractional) & Co-Founder** · DevGap · *2016–present*  
 30+ FTE across EU / Middle East / India. Embedded CAIO for regulated enterprises — accountable for revenue, cost, risk and adoption.
 
-**Earlier:** Deloitte Digital (Fast50 commerce lead, Richemont B2B migration) · TotalEnergies (Head Data & AI Delivery) · GIMBER (168% MRR growth, 6mo) · Jamalon · Kazidomi · VintoVino (co-founder, €2M ARR) · Kapaza (€20M Schibsted exit) · AutoScout24 (#3) · MIVB (one of Belgium's first chatbots, before the word existed).
+**Earlier:** Deloitte Digital (Fast50 commerce lead, Richemont B2B migration) · TotalEnergies (Head Data & AI Delivery) · GIMBER (168% MRR growth, 6mo) · Jamalon · Kazidomi · VintoVino First custom .net Wine Marketplace in the US (co-founder, €2M ARR) · Kapaza (Number 3 employee and part of their 2008 €20M Schibsted exit) · MIVB (one of Belgium's first chatbots, before the word existed).
 
 ---
 
