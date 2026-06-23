@@ -90,6 +90,7 @@ Every action logged and traceable. Uncertain calls go to a human. The whole syst
 ```
 ### Founder of KLEIBER OS
 
+```
 LEIBER ORCHESTRATION OS: ARCHITECTURE
 
 Core Execution Engine Flow in ASCII
@@ -252,6 +253,8 @@ Core Execution Engine Flow in ASCII
               │ [Log]: Post run reports back to Obsidian     │
               └──────────────────────────────────────────────┘
 
+
+```
 ---
 
 ## ` & ` Enterprise stack fluency
